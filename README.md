@@ -1,1 +1,1 @@
-# whale-test
+# Project Helper CLI
